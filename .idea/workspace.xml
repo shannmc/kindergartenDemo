@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c28b9459-e29e-429d-bbea-36e196869b11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KindergartenApp/FlKindergartenCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KindergartenApp/FlKindergartenCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KindergartenApp/HillsboroughCountyCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KindergartenApp/HillsboroughCountyCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KindergartenApp/KindergartenPassingApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KindergartenApp/KindergartenPassingApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FlKindergartenCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlKindergartenCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HillsboroughCountyCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HillsboroughCountyCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KindergartenPassingApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KindergartenPassingApp.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YoVBYCG2r6rH96EjCUG7ViSuA7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="KindergartenPassingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KindergartenPassingApp" />
+      <module name="KindergartenApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KindergartenPassingApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c28b9459-e29e-429d-bbea-36e196869b11" name="Default Changelist" comment="" />
+      <created>1583608798792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583608798792</updated>
+      <workItem from="1583608802514" duration="2719000" />
+      <workItem from="1583797034933" duration="2074000" />
+      <workItem from="1590961747874" duration="1118000" />
+      <workItem from="1590962921284" duration="1597000" />
+      <workItem from="1590964738021" duration="736000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="257" key="#com.intellij.ide.util.MemberChooser" timestamp="1583798433061">
+      <screen x="0" y="23" width="1792" height="1042" />
+    </state>
+    <state x="709" y="251" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1583609424627" />
+    <state x="709" y="257" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1042@0.23.1792.1042" timestamp="1583798433061" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1583805912850">
+      <screen x="0" y="23" width="1792" height="1042" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1583609747017" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.23.1792.1042@0.23.1792.1042" timestamp="1583805912850" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.23.1792.1043@0.23.1792.1043" timestamp="1583774534783" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1583805912849">
+      <screen x="0" y="23" width="1792" height="1042" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1583609747014" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.23.1792.1042@0.23.1792.1042" timestamp="1583805912849" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.23.1792.1043@0.23.1792.1043" timestamp="1583774534782" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1583805912848">
+      <screen x="0" y="23" width="1792" height="1042" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1583609747013" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.23.1792.1042@0.23.1792.1042" timestamp="1583805912848" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.23.1792.1043@0.23.1792.1043" timestamp="1583774534781" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1583805912849">
+      <screen x="0" y="23" width="1792" height="1042" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1583609747015" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.23.1792.1042@0.23.1792.1042" timestamp="1583805912849" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.23.1792.1043@0.23.1792.1043" timestamp="1583774534782" />
+    <state x="573" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1590964768830">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="573" y="392" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1590964768830" />
+    <state x="273" y="286" key="new project wizard" timestamp="1590962338231">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="273" y="286" key="new project wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1590962338231" />
+  </component>
+</project>
